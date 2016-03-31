@@ -1,7 +1,7 @@
 import React, { Component, PropTypes } from 'react'
 import Article from './Article'
 
-class AricleList extends Component {
+class ArticleList extends Component {
     render() {
         return (
             <div>
@@ -19,4 +19,4 @@ class AricleList extends Component {
     }
 }
 
-export default AricleList
+export default ArticleList
